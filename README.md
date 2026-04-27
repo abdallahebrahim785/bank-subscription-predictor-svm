@@ -8,7 +8,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-SVM-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Dataset](https://img.shields.io/badge/Dataset-UCI%20Bank%20Marketing-blue?style=flat)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Live Demo](https://bank-subscription-predictor-svm.streamlit.app/)](#)
 
 ---
 
