@@ -8,7 +8,7 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-SVM-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Dataset](https://img.shields.io/badge/Dataset-UCI%20Bank%20Marketing-blue?style=flat)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
+[![Live Demo](https://bank-subscription-predictor-svm.streamlit.app/)](#)
 
 ---
 
@@ -22,7 +22,7 @@ This project builds a complete end-to-end **SVM classification pipeline** to pre
 
 ## 🌐 Live Demo
 
-> 🔗 **Deployed App:** [ADD YOUR LINK HERE AFTER DEPLOYMENT]  
+> 🔗 **Deployed App:** [https://bank-subscription-predictor-svm.streamlit.app/]  
 > *(Replace this line with your Streamlit Cloud / Hugging Face / Render URL once deployed)*
 
 [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
